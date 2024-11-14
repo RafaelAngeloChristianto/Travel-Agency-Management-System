@@ -1,0 +1,39 @@
+body {
+    display: grid;
+    place-content: center;
+}
+form {
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.email_input {
+    margin-bottom: 50px;
+}
+label {
+    font-family: "Montserrat";
+}
+input {
+    padding: 10px;
+    border-radius: 15px;
+    width: 200px;
+}
+.submit_btn {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+h3 {
+    font-size: 12px;
+    font-family: "Roboto";
+    font-weight: normal;
+    margin-left: 80px;
+}
+span {
+    color: blue;
+}
+span:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.link_to_signup {
+    text-decoration: none;
+}
