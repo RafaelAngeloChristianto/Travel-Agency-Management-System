@@ -1,6 +1,9 @@
 body {
     display: grid;
     place-content: center;
+    height: 100vh;
+    background: linear-gradient(to right, #E8F5E9 0%, #E8F5E9 50%, #FFF4E6 50%, #FFF4E6 100%);
+    margin-top: -50px;
 }
 form {
     margin-top: 40px;

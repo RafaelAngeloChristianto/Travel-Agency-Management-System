@@ -1,0 +1,17 @@
+nav {
+    background-color: cyan;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 90px;
+    display: flex;
+    flex-direction: row;
+}
+.first-logo {
+    margin-top: -35px;
+}
+.nav-title {
+    font-family: "Kanit";
+    font-weight: normal;
+}
